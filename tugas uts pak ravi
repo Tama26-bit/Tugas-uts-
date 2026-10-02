@@ -2,4 +2,3 @@ git remote add origin https://github.com/Tama26-bit/Tugas-uts-.git
 git branch -M main
 git push -u origin main
 
-1
